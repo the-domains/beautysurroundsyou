@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 31 Jan 2016 14:52:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beautysurroundsyou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Current Issue]]></title>
+            <description><![CDATA[<article><h1>Current Issue</h1><p>Matt Ridley reassesses Richard Dawkins's pivotal reframing of evolution, 40 years on. Philip Ball browses remnants of the celebrated library of mathematician and occultist John Dee. Review of Scholar, Courtier, Magician: The Lost Library of John Dee In the face of routine rejection, many scientists must learn to cope with the insidious beast that is impostor syndrome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9e837fab670bd42a8c17c35702d76a9f64bec9.jpg"></article>]]></description>
+            <link>http://www.nature.com/nature/current_issue.html</link>
+            <guid isPermaLink="false">fd4139b1-3637-49db-8763-eaf3b9b19d0a</guid>
+            <pubDate>Sun, 31 Jan 2016 14:52:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Grid]]></title>
             <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
             <link>https://app.thegrid.io/posts/3e9fd470-284c-4784-8d29-dc401343ee6b/edit</link>
