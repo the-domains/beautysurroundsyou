@@ -16,7 +16,7 @@ keywords:
   - cells
   - microscopy
 description: "Matt Ridley reassesses Richard Dawkins's pivotal reframing of evolution, 40 years on. Philip Ball browses remnants of the celebrated library of mathematician and occultist John Dee. Review of Scholar, Courtier, Magician: The Lost Library of John Dee In the face of routine rejection, many scientists must learn to cope with the insidious beast that is impostor syndrome."
-datePublished: '2016-01-31T14:51:57.008Z'
+datePublished: '2016-01-31T14:51:57.075Z'
 dateModified: '2016-01-31T14:51:56.733Z'
 author: []
 related: []
