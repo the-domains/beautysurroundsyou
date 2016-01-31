@@ -1,9 +1,11 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'http://www.nature.com'
+  name: Nature
+  favicon: 'http://www.nature.com/favicon.ico'
+  domain: www.nature.com
 keywords:
   - reg
   - mitochondria
@@ -16,21 +18,17 @@ keywords:
   - cells
   - microscopy
 description: "Matt Ridley reassesses Richard Dawkins's pivotal reframing of evolution, 40 years on. Philip Ball browses remnants of the celebrated library of mathematician and occultist John Dee. Review of Scholar, Courtier, Magician: The Lost Library of John Dee In the face of routine rejection, many scientists must learn to cope with the insidious beast that is impostor syndrome."
-datePublished: '2016-01-31T14:51:57.064Z'
-dateModified: '2016-01-31T14:51:56.733Z'
-author: []
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://www.nature.com/nature/current_issue.html'
 title: Current Issue
+datePublished: '2016-01-31T14:52:32.407Z'
+dateModified: '2016-01-31T00:37:26.082Z'
 sourcePath: _posts/2016-01-31-current-issue.md
 published: true
-authors: []
-publisher:
-  name: Nature
-  domain: www.nature.com
-  url: 'http://www.nature.com'
-  favicon: 'http://www.nature.com/favicon.ico'
-url: current-issue/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
