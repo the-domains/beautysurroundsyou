@@ -22,7 +22,7 @@ color:
     - '#333333'
     - '#550000'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0
 purpose: []
