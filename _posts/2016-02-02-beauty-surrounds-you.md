@@ -17,7 +17,7 @@ keywords:
   - mountain
   - photography
 description: 'Level: All Levels When: October 1 - October 15, 2016 (14 days) Maximum Class Size: 6 Cost: 6599 Canadian Dollars (Includes tuition, shared accommodation, all meals, tips and gratuities, photography permits, entry and excursion fees, game drives, and transport, including airport shuttles) Deposit: 1450 Canadian Dollars Registration: To register, or for more information, please E-mail me, Christoph, at cgfischer@ho tmail.com Your Destination: Seemingly hidden at the end of the world, a vast, spectacularly beautiful coast line traces the southern most edge of the African continent.'
-datePublished: '2016-02-02T04:47:00.123Z'
+datePublished: '2016-02-02T04:47:00.188Z'
 dateModified: '2016-02-02T04:46:57.101Z'
 author: []
 related: []
