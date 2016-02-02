@@ -17,7 +17,7 @@ keywords:
   - photographic
   - canadian
 description: 'Join me on a fun, exhilarating and intense learning experience you are sure not to forget! Let me share with you the beautiful places this earth has to offer and teach you how to capture the beauty that surrounds you.'
-datePublished: '2016-02-02T05:17:31.255Z'
+datePublished: '2016-02-02T05:17:31.277Z'
 dateModified: '2016-02-02T05:12:58.626Z'
 author: []
 related: []
