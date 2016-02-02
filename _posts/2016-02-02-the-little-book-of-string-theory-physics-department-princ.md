@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.princeton.edu/physics/research/high-energy-theory/gubser-group/outreach/the-little-book-of-string/'
 title: 'The Little Book of String Theory - Physics Department, Princeton University'
-datePublished: '2016-02-02T02:04:47.242Z'
-dateModified: '2016-02-02T01:57:53.662Z'
+datePublished: '2016-02-02T02:04:56.528Z'
+dateModified: '2016-02-02T01:57:45.079Z'
 sourcePath: _posts/2016-02-02-the-little-book-of-string-theory-physics-department-princ.md
 published: true
 inFeed: true
