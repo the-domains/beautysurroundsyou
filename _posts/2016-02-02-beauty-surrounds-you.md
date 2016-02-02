@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://beautysurroundsyou.com/favicon.ico'
   domain: beautysurroundsyou.com
 keywords:
-  - namibia
+  - lake
   - workshop
-  - photography
   - mountain
-  - rocky
-  - beautiful
-  - assiniboine
-  - spectacular
-  - photographic
+  - landscape
+  - photography
+  - photograph
+  - louise
   - canadian
-description: 'Join me on a fun, exhilarating and intense learning experience you are sure not to forget! Let me share with you the beautiful places this earth has to offer and teach you how to capture the beauty that surrounds you.'
+  - beautiful
+  - artistic
+description: "Deposit: $ 850 Canadian Combine with Assiniboine Mountain Splendour and get 10% off the full price! To register, or for more information, please E-mail me, Christoph, at cgfischer@ho tmail.com Your Destination: A vast wilderness that needs little introduction, the Canadian Rockies are one of the most extravagantly beautiful mountain ranges on Earth and a landscape photographer's dream."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://beautysurroundsyou.com/toursandworkshops/'
+isBasedOnUrl: 'http://beautysurroundsyou.com/canadian-rockies-photography-workshop/'
 title: Beauty Surrounds You
-datePublished: '2016-02-02T04:12:49.076Z'
-dateModified: '2016-02-02T04:06:28.980Z'
+datePublished: '2016-02-02T04:12:57.248Z'
+dateModified: '2016-02-02T04:06:40.062Z'
 sourcePath: _posts/2016-02-02-beauty-surrounds-you.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Beauty Surrounds You</h1><p>Join me on a fun&amp;comma; exhilarating and intense learning experience you are sure not to forget&amp;excl; Let me share with you the beautiful places this earth has to offer and teach you how to capture the beauty that surrounds you&amp;period;</p><img src="http://beautysurroundsyou.com/wp-content/uploads/Namibia-announce-newest3.jpg" /></article>
+<article style=""><h1>Beauty Surrounds You</h1><p>Deposit&amp;colon; &amp;dollar; 850 Canadian Combine with Assiniboine Mountain Splendour and get 10&amp;percnt; off the full price&amp;excl; To register&amp;comma; or for more information&amp;comma; please E-mail me&amp;comma; Christoph&amp;comma; at cgfischer&amp;commat;ho tmail&amp;period;com Your Destination&amp;colon; A vast wilderness that needs little introduction&amp;comma; the Canadian Rockies are one of the most extravagantly beautiful mountain ranges on Earth and a landscape photographer's dream&amp;period;</p><img src="http://beautysurroundsyou.com/wp-content/uploads/PEyto-Announce.jpg" /></article>
