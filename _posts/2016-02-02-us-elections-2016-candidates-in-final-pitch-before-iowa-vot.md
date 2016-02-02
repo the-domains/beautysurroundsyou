@@ -17,7 +17,7 @@ keywords:
   - states
   - clinton
 description: 'US presidential candidates are making a final pitch to people in the state of Iowa, where the first votes for party nominations will take place on Monday. Polls suggest that business tycoon Donald Trump has a lead over Ted Cruz and the other Republican candidates.'
-datePublished: '2016-02-02T02:52:44.771Z'
+datePublished: '2016-02-02T02:52:44.821Z'
 dateModified: '2016-02-02T02:52:41.079Z'
 author: []
 related: []
