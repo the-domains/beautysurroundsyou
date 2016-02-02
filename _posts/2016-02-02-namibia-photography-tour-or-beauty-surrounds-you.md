@@ -17,7 +17,7 @@ keywords:
   - light
   - morning
 description: "An all inclusive, two week long, dream photography tour of Namibia's most spectacular landscapes and wildlife destinations. A once in a lifetime opportunity"
-datePublished: '2016-02-02T04:01:39.318Z'
+datePublished: '2016-02-02T04:01:39.394Z'
 dateModified: '2016-02-02T04:01:27.616Z'
 author: []
 related: []
