@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BeautySurroundsYou]]></title>
+        <description><![CDATA[BeautySurroundsYou]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 02:03:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phottix announces next generation of Odin TTL flash controllers]]></title>
+            <description><![CDATA[<article><h1>Phottix announces next generation of Odin TTL flash controllers</h1><p>Flash and accessory manufacturer Phottix has released details of the second generation of Odin flash controllers that will go on sale mid-February. The Odin II units, which allow wireless TTL control of hotshoe and portable studio flash units, will add two extra control groups and 28 additional channels to the radio trigger's reach, and will make the user interface easier to handle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09ce6db6b9a9c317583056754c34c16b6a0421dc.png"></article>]]></description>
+            <link>http://www.dpreview.com/news/9454863594/phottix-announces-next-generation-of-odin-ttl-flash-controllers</link>
+            <guid isPermaLink="false">baaf381f-b492-498b-9476-5bc979a8e03e</guid>
+            <pubDate>Tue, 02 Feb 2016 02:03:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
