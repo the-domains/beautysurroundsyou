@@ -23,6 +23,6 @@ color:
     - '#550000'
   brandStrength: 0
   lightness: 1
-  saturation: 0.75
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
