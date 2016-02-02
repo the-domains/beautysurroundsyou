@@ -17,7 +17,7 @@ keywords:
   - compatible
   - strato
 description: "Flash and accessory manufacturer Phottix has released details of the second generation of Odin flash controllers that will go on sale mid-February. The Odin II units, which allow wireless TTL control of hotshoe and portable studio flash units, will add two extra control groups and 28 additional channels to the radio trigger's reach, and will make the user interface easier to handle."
-datePublished: '2016-02-02T02:52:02.538Z'
+datePublished: '2016-02-02T02:52:02.630Z'
 dateModified: '2016-02-02T02:51:56.164Z'
 author: []
 related: []
