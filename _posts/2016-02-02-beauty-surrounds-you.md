@@ -6,24 +6,14 @@ publisher:
   name: Beautysurroundsyou
   favicon: 'http://beautysurroundsyou.com/favicon.ico'
   domain: beautysurroundsyou.com
-keywords:
-  - lake
-  - workshop
-  - mountain
-  - landscape
-  - photography
-  - photograph
-  - louise
-  - canadian
-  - beautiful
-  - artistic
-description: "Deposit: $ 850 Canadian Combine with Assiniboine Mountain Splendour and get 10% off the full price! To register, or for more information, please E-mail me, Christoph, at cgfischer@ho tmail.com Your Destination: A vast wilderness that needs little introduction, the Canadian Rockies are one of the most extravagantly beautiful mountain ranges on Earth and a landscape photographer's dream."
-inLanguage: en
+keywords: []
+description: 'Where: Assiniboine Provincial Park, British Columbia, Canada Cost: $ 1545.00 Canadian (Includes 3 full days photography instruction, return helicopter flight into Mt. Assiniboine, 3 nights accommodation, food in Mt. Assiniboine.) Deposit: $ 700 Canadian Combine with Best of the Canadian Rockies and get 10% off the full price!'
+inLanguage: ca
 app_links: []
-isBasedOnUrl: 'http://beautysurroundsyou.com/canadian-rockies-photography-workshop/'
+isBasedOnUrl: 'http://beautysurroundsyou.com/canadian-rockies-backcountry-photography-workshop/'
 title: Beauty Surrounds You
-datePublished: '2016-02-02T04:12:57.248Z'
-dateModified: '2016-02-02T04:06:40.062Z'
+datePublished: '2016-02-02T04:12:41.170Z'
+dateModified: '2016-02-02T04:06:45.617Z'
 sourcePath: _posts/2016-02-02-beauty-surrounds-you.md
 published: true
 inFeed: true
@@ -33,4 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Beauty Surrounds You</h1><p>Deposit&amp;colon; &amp;dollar; 850 Canadian Combine with Assiniboine Mountain Splendour and get 10&amp;percnt; off the full price&amp;excl; To register&amp;comma; or for more information&amp;comma; please E-mail me&amp;comma; Christoph&amp;comma; at cgfischer&amp;commat;ho tmail&amp;period;com Your Destination&amp;colon; A vast wilderness that needs little introduction&amp;comma; the Canadian Rockies are one of the most extravagantly beautiful mountain ranges on Earth and a landscape photographer's dream&amp;period;</p><img src="http://beautysurroundsyou.com/wp-content/uploads/PEyto-Announce.jpg" /></article>
+<article style=""><h1>Beauty Surrounds You</h1><p>Where&amp;colon; Assiniboine Provincial Park&amp;comma; British Columbia&amp;comma; Canada Cost&amp;colon; &amp;dollar; 1545&amp;period;00 Canadian &amp;lpar;Includes 3 full days photography instruction&amp;comma; return helicopter flight into Mt&amp;period; Assiniboine&amp;comma; 3 nights accommodation&amp;comma; food in Mt&amp;period; Assiniboine&amp;period;&amp;rpar; Deposit&amp;colon; &amp;dollar; 700 Canadian Combine with Best of the Canadian Rockies and get 10&amp;percnt; off the full price&amp;excl;</p><img src="http://beautysurroundsyou.com/wp-content/uploads/Untitled-1.jpg" /></article>
