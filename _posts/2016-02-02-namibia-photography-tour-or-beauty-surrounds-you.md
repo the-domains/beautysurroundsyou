@@ -1,10 +1,11 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://beautysurroundsyou.com/namibia-photography-tour/'
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'http://beautysurroundsyou.com'
+  name: Beautysurroundsyou
+  favicon: 'http://beautysurroundsyou.com/favicon.ico'
+  domain: beautysurroundsyou.com
 keywords:
   - photograph
   - dune
@@ -17,22 +18,19 @@ keywords:
   - light
   - morning
 description: "An all inclusive, two week long, dream photography tour of Namibia's most spectacular landscapes and wildlife destinations. A once in a lifetime opportunity"
-datePublished: '2016-02-02T04:01:39.394Z'
-dateModified: '2016-02-02T04:01:27.616Z'
-author: []
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://beautysurroundsyou.com/namibia-photography-tour/'
 title: 'Namibia Photography Tour | Beauty Surrounds You'
+datePublished: '2016-02-02T04:13:05.595Z'
+dateModified: '2016-02-02T03:41:48.527Z'
 sourcePath: _posts/2016-02-02-namibia-photography-tour-or-beauty-surrounds-you.md
 published: true
-authors: []
-publisher:
-  name: Beautysurroundsyou
-  domain: beautysurroundsyou.com
-  url: 'http://beautysurroundsyou.com'
-  favicon: 'http://beautysurroundsyou.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Namibia Photography Tour | Beauty Surrounds You</h1><p>An all inclusive, two week long, dream photography tour of Namibia's most spectacular landscapes and wildlife destinations. A once in a lifetime opportunity</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4223e2505cc8b29f7318a03a29ab7ca41f92b495.jpg" /></article>
+<article style=""><h1>Namibia Photography Tour &amp;vert; Beauty Surrounds You</h1><p>An all inclusive&amp;comma; two week long&amp;comma; dream photography tour of Namibia's most spectacular landscapes and wildlife destinations&amp;period; A once in a lifetime opportunity</p><img src="http://beautysurroundsyou.com/wp-content/uploads/Satin950workshop-ann.jpg" /></article>
