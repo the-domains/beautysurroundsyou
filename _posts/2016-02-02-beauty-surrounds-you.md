@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://beautysurroundsyou.com/south-africa-photography-tour/'
 title: Beauty Surrounds You
-datePublished: '2016-02-02T04:12:23.597Z'
-dateModified: '2016-02-02T04:06:59.741Z'
+datePublished: '2016-02-02T04:12:32.784Z'
+dateModified: '2016-02-02T04:09:27.038Z'
 sourcePath: _posts/2016-02-02-beauty-surrounds-you.md
 published: true
 inFeed: true
