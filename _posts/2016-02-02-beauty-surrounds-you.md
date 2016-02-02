@@ -1,26 +1,38 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://beautysurroundsyou.com'
-  name: Beautysurroundsyou
-  favicon: 'http://beautysurroundsyou.com/favicon.ico'
-  domain: beautysurroundsyou.com
-keywords: []
-description: 'Where: Assiniboine Provincial Park, British Columbia, Canada Cost: $ 1545.00 Canadian (Includes 3 full days photography instruction, return helicopter flight into Mt. Assiniboine, 3 nights accommodation, food in Mt. Assiniboine.) Deposit: $ 700 Canadian Combine with Best of the Canadian Rockies and get 10% off the full price!'
-inLanguage: ca
-app_links: []
-isBasedOnUrl: 'http://beautysurroundsyou.com/canadian-rockies-backcountry-photography-workshop/'
-title: Beauty Surrounds You
-datePublished: '2016-02-02T04:12:41.170Z'
-dateModified: '2016-02-02T04:06:45.617Z'
-sourcePath: _posts/2016-02-02-beauty-surrounds-you.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://beautysurroundsyou.com/south-africa-photography-tour/'
+inLanguage: en
+starred: false
+keywords:
+  - cape
+  - capture
+  - africa
+  - beautifully
+  - october
+  - town
+  - ocean
+  - south
+  - mountain
+  - photography
+description: 'Level: All Levels When: October 1 - October 15, 2016 (14 days) Maximum Class Size: 6 Cost: 6599 Canadian Dollars (Includes tuition, shared accommodation, all meals, tips and gratuities, photography permits, entry and excursion fees, game drives, and transport, including airport shuttles) Deposit: 1450 Canadian Dollars Registration: To register, or for more information, please E-mail me, Christoph, at cgfischer@ho tmail.com Your Destination: Seemingly hidden at the end of the world, a vast, spectacularly beautiful coast line traces the southern most edge of the African continent.'
+datePublished: '2016-02-02T04:47:00.084Z'
+dateModified: '2016-02-02T04:46:57.101Z'
+author: []
+related: []
+app_links: []
+title: Beauty Surrounds You
+sourcePath: _posts/2016-02-02-beauty-surrounds-you.md
+published: true
+authors: []
+publisher:
+  name: Beautysurroundsyou
+  domain: beautysurroundsyou.com
+  url: 'http://beautysurroundsyou.com'
+  favicon: 'http://beautysurroundsyou.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Beauty Surrounds You</h1><p>Where&amp;colon; Assiniboine Provincial Park&amp;comma; British Columbia&amp;comma; Canada Cost&amp;colon; &amp;dollar; 1545&amp;period;00 Canadian &amp;lpar;Includes 3 full days photography instruction&amp;comma; return helicopter flight into Mt&amp;period; Assiniboine&amp;comma; 3 nights accommodation&amp;comma; food in Mt&amp;period; Assiniboine&amp;period;&amp;rpar; Deposit&amp;colon; &amp;dollar; 700 Canadian Combine with Best of the Canadian Rockies and get 10&amp;percnt; off the full price&amp;excl;</p><img src="http://beautysurroundsyou.com/wp-content/uploads/Untitled-1.jpg" /></article>
+<article style=""><h1>Beauty Surrounds You</h1><p>Level: All Levels When: October 1 - October 15, 2016 (14 days) Maximum Class Size: 6 Cost: 6599 Canadian Dollars (Includes tuition, shared accommodation, all meals, tips and gratuities, photography permits, entry and excursion fees, game drives, and transport, including airport shuttles) Deposit: 1450 Canadian Dollars Registration: To register, or for more information, please E-mail me, Christoph, at cgfischer@ho tmail.com Your Destination: Seemingly hidden at the end of the world, a vast, spectacularly beautiful coast line traces the southern most edge of the African continent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/286a9256f1700282599a09f1e113b60c1fdfc5f0.jpg" /></article>
